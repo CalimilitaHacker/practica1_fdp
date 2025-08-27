@@ -1,0 +1,3 @@
+La inteligencia artificial en la ingeniería eléctrica electrónica se utiliza para mejorar el diseño y el funcionamiento de los sistemas eléctricos. 
+Puede predecir fallas en redes de energía, optimizar el consumo eléctrico y automatizar procesos de control. 
+También ayuda en el diseño de circuitos electrónicos más eficientes y en el desarrollo de dispositivos inteligentes. En general, la IA apoya al ingeniero a trabajar de manera más rápida y precisa.
